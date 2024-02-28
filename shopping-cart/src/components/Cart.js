@@ -6,7 +6,7 @@ const Cart=(props)=>{
     return(
      
           
-            <div className="customDiv">
+            <div className="cartContainer">
             <h3>Cart </h3>
             <hr/>
              <ul>

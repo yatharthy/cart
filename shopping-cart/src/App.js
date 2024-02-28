@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className="customDiv">
+      <div className="purchaseContainer">
         <h3>Purchase </h3>
         <hr />
         <select onChange={handleProdChange}>

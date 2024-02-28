@@ -5,7 +5,7 @@ const Total=()=>{
         <TotalContext.Consumer>
             {(total)=>{
                 return(
-                    <div className="customDiv">
+                    <div className="totalContainer">
                     <h3>Total </h3>
                     <hr/>
                      <h2>Total : {total}</h2>
